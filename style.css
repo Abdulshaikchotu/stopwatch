@@ -1,0 +1,38 @@
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#display span{
+    margin: 20px;
+}
+
+#functionality{
+    margin-top: 20px;
+}
+
+#functionality button{
+    width:70px;
+    height: 40px;
+}
+
+#start{
+    background-color: green;
+    color: white;
+}
+#pause{
+    background-color: red;
+    color: white;
+}
+#reset{
+    background-color:yellow;
+    color:black;
+}
+
+#cast{
+    background-color: black;
+    color: white;
+}
